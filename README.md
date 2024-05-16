@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jamesxn
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning RE-learning Front-End Development
+- 🌱 I’m currently RE-learning Front-End Development
 - 💞️ I’m looking to collaborate on any and all things related to JavaScript
 - 📫 How to reach me You can reach me on my LinkedIn - https://www.LinkedIn.com/in/JamesonCreevey
 - 😄 Pronouns: ...
